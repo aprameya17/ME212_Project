@@ -1,4 +1,9 @@
  # ME212_Project
+ 
+ # Description:
+
+- __India is one of the fastest-growing economies in the world. It has become the 3rd largest start-up ecosystem in the world after the US and China.__
+- __In this notebook, we are going to perform an Exploratory Data Analysis (EDA) on the Indian startup funding dataset for 2021. We will infer some insights and try to answer certain questions about the funding that occurred in 2021.__
 
 ## Correlation: 
 - Correlation evaluates the direction as well as strength of a relationship between continuous variables. 
